@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2A914C32-8574-4C34-803E-1578385B9BE0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GuildBrowser</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D13C3433-CC6D-4F70-96B3-177798F4A662</key>
+		<string>ssh://github.com/dengbinhero/UnitTest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GuildBrowser.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D13C3433-CC6D-4F70-96B3-177798F4A662</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/dengbinhero/UnitTest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D13C3433-CC6D-4F70-96B3-177798F4A662</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D13C3433-CC6D-4F70-96B3-177798F4A662</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GuildBrowser_Starter</string>
+		</dict>
+	</array>
+</dict>
+</plist>
