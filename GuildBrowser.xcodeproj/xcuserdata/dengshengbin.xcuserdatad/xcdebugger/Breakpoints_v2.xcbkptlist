@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WowUtilsTests.m"
+            timestampString = "424367565.148369"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WowUtilsTests.m"
+            timestampString = "424368239.534839"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "-testCharacterClassNameLookup"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WowUtilsTests testCharacterClassNameLookup]"
+                  moduleName = "GuildBrowserLogicTests"
+                  urlString = "file:///Users/dengshengbin/%E5%BF%AB%E7%9B%98/%E5%BC%80%E5%8F%91/iOS%E5%BC%80%E5%8F%91/%E5%AD%A6%E4%B9%A0/UnitTest/GuildBrowser_Starter/WowUtilsTests.m"
+                  timestampString = "424368243.878813"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WowUtilsTests testCharacterClassNameLookup]"
+                  moduleName = "GuildBrowserLogicTests"
+                  urlString = "file:///Users/dengshengbin/%E5%BF%AB%E7%9B%98/%E5%BC%80%E5%8F%91/iOS%E5%BC%80%E5%8F%91/%E5%AD%A6%E4%B9%A0/UnitTest/GuildBrowser_Starter/WowUtilsTests.m"
+                  timestampString = "424368243.879071"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "759">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WowUtilsTests testCharacterClassNameLookup]"
+                  moduleName = "GuildBrowserLogicTests"
+                  urlString = "file:///Users/dengshengbin/%E5%BF%AB%E7%9B%98/%E5%BC%80%E5%8F%91/iOS%E5%BC%80%E5%8F%91/%E5%AD%A6%E4%B9%A0/UnitTest/GuildBrowser_Starter/WowUtilsTests.m"
+                  timestampString = "424368243.879346"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "764">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

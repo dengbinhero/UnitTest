@@ -1,0 +1,34 @@
+//
+//  GuildsBrowserLogicTests.m
+//  GuildsBrowserLogicTests
+//
+//  Created by 邓盛斌 on 14-6-10.
+//  Copyright (c) 2014年 Charlie Fulton. All rights reserved.
+//
+
+#import <XCTest/XCTest.h>
+
+@interface GuildsBrowserLogicTests : XCTestCase
+
+@end
+
+@implementation GuildsBrowserLogicTests
+
+- (void)setUp
+{
+    [super setUp];
+    // Put setup code here. This method is called before the invocation of each test method in the class.
+}
+
+- (void)tearDown
+{
+    // Put teardown code here. This method is called after the invocation of each test method in the class.
+    [super tearDown];
+}
+
+- (void)testExample
+{
+    XCTFail(@"No implementation for \"%s\"", __PRETTY_FUNCTION__);
+}
+
+@end

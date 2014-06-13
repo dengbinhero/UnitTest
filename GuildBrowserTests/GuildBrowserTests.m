@@ -26,6 +26,7 @@
 
 - (void)testExample
 {
+    NSLog(@"hah ");
    // STFail(@"Unit tests are not implemented yet in GuildBrowserTests");
 }
 
