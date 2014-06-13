@@ -23,58 +23,152 @@
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "WowUtilsTests.m"
-            timestampString = "424368239.534839"
+            filePath = "CharacterTests.m"
+            timestampString = "424370130.330546"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "23"
-            endingLineNumber = "23"
-            landmarkName = "-testCharacterClassNameLookup"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "-setUp"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterTests.m"
+            timestampString = "424370130.330546"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "-tearDown"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterTests.m"
+            timestampString = "424370130.330546"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "-testCreateCharacterFromDetailJson"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterTests.m"
+            timestampString = "424370130.330546"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "@implementation CharacterTests"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterTests.m"
+            timestampString = "424370130.330546"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "-testCreateCharacterFromDetailJsonValidateItems"
             landmarkType = "5">
             <Locations>
                <Location
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "-[WowUtilsTests testCharacterClassNameLookup]"
+                  symbolName = "-[CharacterTests testCreateCharacterFromDetailJsonValidateItems]"
                   moduleName = "GuildBrowserLogicTests"
-                  urlString = "file:///Users/dengshengbin/%E5%BF%AB%E7%9B%98/%E5%BC%80%E5%8F%91/iOS%E5%BC%80%E5%8F%91/%E5%AD%A6%E4%B9%A0/UnitTest/GuildBrowser_Starter/WowUtilsTests.m"
-                  timestampString = "424368243.878813"
+                  urlString = "file:///Users/dengshengbin/%E5%BF%AB%E7%9B%98/%E5%BC%80%E5%8F%91/iOS%E5%BC%80%E5%8F%91/%E5%AD%A6%E4%B9%A0/UnitTest/GuildBrowser_Starter/CharacterTests.m"
+                  timestampString = "424370138.487956"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "25"
-                  endingLineNumber = "25"
-                  offsetFromSymbolStart = "20">
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "754">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "-[WowUtilsTests testCharacterClassNameLookup]"
+                  symbolName = "-[CharacterTests testCreateCharacterFromDetailJsonValidateItems]"
                   moduleName = "GuildBrowserLogicTests"
-                  urlString = "file:///Users/dengshengbin/%E5%BF%AB%E7%9B%98/%E5%BC%80%E5%8F%91/iOS%E5%BC%80%E5%8F%91/%E5%AD%A6%E4%B9%A0/UnitTest/GuildBrowser_Starter/WowUtilsTests.m"
-                  timestampString = "424368243.879071"
+                  urlString = "file:///Users/dengshengbin/%E5%BF%AB%E7%9B%98/%E5%BC%80%E5%8F%91/iOS%E5%BC%80%E5%8F%91/%E5%AD%A6%E4%B9%A0/UnitTest/GuildBrowser_Starter/CharacterTests.m"
+                  timestampString = "424370138.488263"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "25"
-                  endingLineNumber = "25"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
                   offsetFromSymbolStart = "759">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "-[WowUtilsTests testCharacterClassNameLookup]"
+                  symbolName = "-[CharacterTests testCreateCharacterFromDetailJsonValidateItems]"
                   moduleName = "GuildBrowserLogicTests"
-                  urlString = "file:///Users/dengshengbin/%E5%BF%AB%E7%9B%98/%E5%BC%80%E5%8F%91/iOS%E5%BC%80%E5%8F%91/%E5%AD%A6%E4%B9%A0/UnitTest/GuildBrowser_Starter/WowUtilsTests.m"
-                  timestampString = "424368243.879346"
+                  urlString = "file:///Users/dengshengbin/%E5%BF%AB%E7%9B%98/%E5%BC%80%E5%8F%91/iOS%E5%BC%80%E5%8F%91/%E5%AD%A6%E4%B9%A0/UnitTest/GuildBrowser_Starter/CharacterTests.m"
+                  timestampString = "424370138.488514"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "25"
-                  endingLineNumber = "25"
-                  offsetFromSymbolStart = "764">
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "2145">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[CharacterTests testCreateCharacterFromDetailJsonValidateItems]"
+                  moduleName = "GuildBrowserLogicTests"
+                  urlString = "file:///Users/dengshengbin/%E5%BF%AB%E7%9B%98/%E5%BC%80%E5%8F%91/iOS%E5%BC%80%E5%8F%91/%E5%AD%A6%E4%B9%A0/UnitTest/GuildBrowser_Starter/CharacterTests.m"
+                  timestampString = "424370138.488755"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "2150">
                </Location>
             </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterTests.m"
+            timestampString = "424370136.707396"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "-testCreateCharacterFromDetailJsonProps"
+            landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
